@@ -1,0 +1,21 @@
+title,company,description,link
+Junior Data Analyst,BrightData,"Entry level role. SQL, Excel and Power BI to build weekly reports. Fresh graduates are welcome.",https://example.com/jobs/junior-data-analyst
+Data Scientist,DataCorp,"2+ years of experience. Python, machine learning, scikit-learn, pandas and SQL to build prediction models.",https://example.com/jobs/data-scientist
+Senior Data Scientist,Nexus AI,"5+ years of experience in Python, machine learning, deep learning, TensorFlow and SQL. Mentor junior team members.",https://example.com/jobs/senior-data-scientist
+Head of Data Science,Orbit Labs,"Lead the data team. 8+ years of experience with Python, machine learning, statistics and stakeholder management.",https://example.com/jobs/head-of-data-science
+Machine Learning Intern,StartHub,"Internship for students. Python, pandas and basic machine learning. You will learn on the job.",https://example.com/jobs/ml-intern
+Junior Frontend Developer,WebStudio,"JavaScript, HTML, CSS and React. No experience needed, training is provided.",https://example.com/jobs/junior-frontend
+Frontend Developer,PixelWorks,"3+ years of experience building interfaces with JavaScript, React, TypeScript, HTML and CSS.",https://example.com/jobs/frontend-developer
+Senior Full Stack Engineer,CloudNest,"5+ years of experience with JavaScript, React, Node.js, SQL and Docker.",https://example.com/jobs/senior-full-stack
+Backend Developer (Python),ApiForge,"Build REST APIs with Python, Django, SQL and Docker. Experience: 2-4 years.",https://example.com/jobs/backend-python
+DevOps Engineer,CloudWorks,"Manage infrastructure with Docker, Kubernetes, AWS, Linux and CI/CD pipelines. At least 3 years experience.",https://example.com/jobs/devops-engineer
+Junior DevOps Engineer,InfraLite,"Entry level. Linux, Docker and basic AWS. Great for recent graduates.",https://example.com/jobs/junior-devops
+Business Intelligence Analyst,InsightCo,"Create dashboards and reports using SQL, Power BI, Tableau and Excel. 1-3 years of experience.",https://example.com/jobs/bi-analyst
+Tech Team Lead,Foundry,"Lead a team of 6 engineers. 7+ years of experience in Python, SQL, AWS and agile delivery.",https://example.com/jobs/tech-team-lead
+Mobile Developer (Flutter),AppNest,"Develop mobile apps with Flutter, Dart and REST APIs. Firebase is a plus.",https://example.com/jobs/flutter-developer
+QA Engineer,TestLab,"Write automated tests with Python, Selenium and CI/CD. 1+ years of experience in software testing.",https://example.com/jobs/qa-engineer
+Cybersecurity Analyst,SecureNet,"Monitor threats using Linux, networking, SIEM tools and Python scripting. 2+ years of experience.",https://example.com/jobs/cybersecurity-analyst
+Data Engineer,PipelineCo,"Build data pipelines with Python, SQL, Spark and AWS. 3+ years of experience.",https://example.com/jobs/data-engineer
+Marketing Analyst (Trainee),Growth & Co,"Analyze campaigns with Excel, SQL & Google Analytics. Work with the R&D team to keep the error rate <5%.",
+Software Engineer Graduate Program,BigTech,"Graduate program for new graduates. Python or Java, data structures and SQL.",https://example.com/jobs/graduate-program
+Engineering Manager,ScaleUp,"10+ years of experience. Manage teams and delivery with Python, AWS and Kubernetes.",https://example.com/jobs/engineering-manager

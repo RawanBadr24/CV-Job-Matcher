@@ -1,0 +1,8 @@
+streamlit
+transformers
+accelerate
+torch
+pypdf
+reportlab
+pandas
+requests
