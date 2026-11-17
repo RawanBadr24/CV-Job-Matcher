@@ -6,7 +6,10 @@ The system uses **Qwen2.5 open models** to extract information from CVs and job 
 
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RawanBadr24/cv-job-matcher/blob/main/CV_Job_Matcher_Multi_Agent.ipynb)
 
-![Project Architecture](archi.png)
+<p align="center">
+  <img src="archi.png" alt="LexaQuery System Architecture" width="100%">
+</p>
+
 
 ## Key Features
 
